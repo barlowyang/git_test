@@ -14,17 +14,17 @@ package
 			trace("test");
 		}
 		
-		public function test2():void
+		public function test32():void
 		{
 			trace("test2");
 		}
 		
-		public function test3():void
+		public function test33():void
 		{
 			trace("test");
 		}
 		
-		public function test24():void
+		public function test234():void
 		{
 			trace("test2");
 		}
