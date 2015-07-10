@@ -8,5 +8,10 @@ package
 		{
 			
 		}
+		
+		public function test():void
+		{
+			
+		}
 	}
 }
