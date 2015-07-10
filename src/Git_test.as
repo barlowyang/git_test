@@ -18,5 +18,15 @@ package
 		{
 			trace("test2");
 		}
+		
+		public function test3():void
+		{
+			trace("test");
+		}
+		
+		public function test24():void
+		{
+			trace("test2");
+		}
 	}
 }
